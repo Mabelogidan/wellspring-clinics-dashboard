@@ -1,7 +1,7 @@
 # Wellspring Clinics Performance Dashboard
 
 - **Type:** Personal training project — Power BI
-- **Program:** TechCrush Data Analytics Program (Instructor: Miss Victoria)
+- **Program:** TechCrush Data Analytics Program
 - **Tools:** Power BI (Power Query, DAX, interactive visuals)
 
 ## Overview
