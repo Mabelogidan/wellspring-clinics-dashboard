@@ -30,4 +30,9 @@ As part of my transition into data analytics, I built an interactive Power BI da
 
 ## Skills Demonstrated
 
-Data cleaning · DAX measure creation · KPI design · Chart selection & data storytelling · Dashboard layout & interactivity · Business interpretation of data
+Data cleaning 
+· DAX measure creation 
+· KPI design 
+· Chart selection & data storytelling 
+· Dashboard layout & interactivity 
+· Business interpretation of data
